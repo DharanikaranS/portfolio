@@ -8,3 +8,27 @@ section {
     padding-right: 1rem;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .tagline {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Optional: Align left */
+    gap: 4px;
+  }
+
+  .tagline::after {
+    content: '';
+  }
+
+  .tagline {
+    white-space: normal;
+  }
+
+
+  .tagline {
+    color: inherit; /* Or your desired color */
+    font-weight: bold;
+  }
+}
+
