@@ -33,7 +33,7 @@ npm start
 ## 👤 Author
 
 **Dharanikaran S**  
-🎓 B.E. Computer Science and Engineering  
+🎓 B.Tech Information Technology      
 🏫 SSN College of Engineering, Tamil Nadu  
 📧 dharanikarans27@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/dharanikaran-s-229b55303/)  
