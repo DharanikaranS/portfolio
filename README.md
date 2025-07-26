@@ -35,7 +35,7 @@ npm start
 **Dharanikaran S**  
 🎓 B.E. Computer Science and Engineering  
 🏫 SSN College of Engineering, Tamil Nadu  
-📧 dharanikaran@email.com  
+📧 dharanikarans27@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/dharanikaran-s-229b55303/)  
 🔗 [GitHub](https://github.com/DharanikaranS)
 
